@@ -10,7 +10,7 @@ a list of the characters, and if they so choose, an option to find out more info
 Bug reports and pull requests are welcome on GitHub at https://github.com/[NickisKnowledge]/couchsurfing. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant code of conduct.
 
 # Installation Guide
-To clone this lab, in your terminal simply type git clone git@github.com:chrisb3546/Cli-Project.git.
+Clone project into main folder.
 The gems you will need for this installation are as follows:
 pry
 httparty
